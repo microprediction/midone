@@ -1,8 +1,8 @@
-# MidOne ![tests](https://github.com/microprediction/midone/actions/workflows/tests.yml/badge.svg)
+# Mid+One ![tests](https://github.com/microprediction/midone/actions/workflows/tests.yml/badge.svg)
 
 Utilities to help build `Attackers` that detect small departures from martingality in time-series. 
 
-### [Crunch Mid-One Contest](https://www.crunchdao.com/) notebooks
+### [Crunch Mid+One Contest](https://www.crunchdao.com/) notebooks
 
 Play the game! You might win some cash or even have ongoing upside. 
 
