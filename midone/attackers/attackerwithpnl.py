@@ -4,6 +4,9 @@ from midone import EPSILON, DEFAULT_TRADE_BACKOFF
 from midone.gameconfig import HORIZON
 from typing import Dict, Any
 
+# Note: Most will prefer to inherit from Attacker
+# See https://github.com/microprediction/midone/blob/main/midone/attackers/attacker.md
+
 class AttackerWithPnl(BaseAttacker):
     """
     An attacker that tracks profit and loss (PnL).
