@@ -1,4 +1,4 @@
-# endersgame ![tests](https://github.com/microprediction/endersgame/actions/workflows/tests.yml/badge.svg)
+# MidOne ![tests](https://github.com/microprediction/endersgame/actions/workflows/tests.yml/badge.svg)
 
 Utilities to help build `Attackers` that detect small departures from martingality in time-series. 
 
