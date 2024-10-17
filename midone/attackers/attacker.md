@@ -1,11 +1,17 @@
 # Attacker Class
 
-The `MyMomentumAttacker` illustrates `Attacker` class use. 
+Here is an example of creating `MyMomentumAttacker` to illustrate inheritance from the `Attacker` class. 
 
-Here we create an attacker instance that tracks its own profit and loss, and makes
-predictions using a function of lagged values. 
 
-## Usage
+## Example Usage
+
+We'll exhibit the benefits of subclassing `Attacker`:
+
+    - Inherit profit and loss accounting
+    - Inherit a cache of recent values 
+    - Inherit `tick`, `tick_and_predict` and `predict` methods that are sufficient for many patterns
+
+We only need to implement `predict_using_history` in this particular example:
 
 ### 1. **Import the Class**
 
