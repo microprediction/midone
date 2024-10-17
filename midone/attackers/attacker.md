@@ -7,9 +7,9 @@ Here is an example of creating `MyMomentumAttacker` to illustrate inheritance fr
 
 We'll exhibit the benefits of subclassing `Attacker`:
 
-    - Inherit profit and loss accounting
-    - Inherit a cache of recent values 
-    - Inherit `tick`, `tick_and_predict` and `predict` methods that are sufficient for many patterns
+- Inherit profit and loss accounting
+- Inherit a cache of recent values 
+- Inherit `tick`, `tick_and_predict` and `predict` methods that are sufficient for many patterns
 
 We only need to implement `predict_using_history` in this particular example:
 
