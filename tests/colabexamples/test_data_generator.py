@@ -1,5 +1,4 @@
 
-# https://github.com/microprediction/endersnotebooks/blob/main/enders_data_generator.ipynb
 
 def test_datagen():
     from midone.datasources.streamgenerator import stream_generator

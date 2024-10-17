@@ -1,6 +1,5 @@
 
-# https://github.com/microprediction/endersnotebooks/blob/main/enders_data_generator.ipynb
-
+# Deprecated. Head to www.cruchdao.com !
 
 def test_gen_gen():
     from midone.datasources.streamgeneratorgenerator import stream_generator_generator

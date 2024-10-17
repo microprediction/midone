@@ -7,8 +7,6 @@ Need help tracking things? That's what these classes are for but you are not obl
 
 ## See also 
 
- - Colab [notebooks](https://github.com/microprediction/endersnotebooks) demonstrating `Attacker`
- - Recommended [attacker.md](https://github.com/microprediction/midone/blob/main/midone/attackers/attacker.md)
  - Attacker [FAQ.md](https://github.com/microprediction/midone/blob/main/midone/attackers/FAQ.md)
  - The tournament at [CrunchDAO.com](https://www.crunchdao.com) where you can use them to win rewards. 
 

@@ -24,6 +24,7 @@ def stream_generator(stream_id, category='train', verbose=False, return_float=Fa
     Yields:
     - float: The next value from the sequence of CSV files.
     """
+    print('Stream generator is deprecated. Go to www.crunchdao.com ! ')
     assert category.lower() in VALID_PUBLIC_CATEGORIES,'Only train and test data is available,sorry! '
 
     import requests

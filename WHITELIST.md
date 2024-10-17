@@ -1,4 +1,3 @@
-Whitelisted packages for midone (best illustrated by [notebooks](https://github.com/microprediction/endersnotebooks)). See also the whitelisting [discussion](https://github.com/microprediction/midone/discussions/9)
 
 ### The obvious
 
