@@ -7,9 +7,6 @@ from midone import stream_generator, stream_generator_generator
 import numpy as np
 import types
 from pprint import pprint
-import json
-import scipy.optimize as opt
-from typing import Iterable, Iterator
 
 
 
