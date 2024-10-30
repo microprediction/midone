@@ -8,9 +8,9 @@ Play the game at [CrunchDAO.com](https://www.crunchdao.com/)! You might win some
 
 | Contest notebook | Description |
 | --- | --- |
-| [Mean reversion attacker](https://github.com/crunchdao/quickstarters/blob/master/competitions/mid-one/mean_reversion_attacker/mean_reversion_attacker.ipynb) | Illustrates use of the `Attacker` class|
-| [Momentum attacker](https://github.com/crunchdao/quickstarters/blob/master/competitions/mid-one/momentum_attacker/momentum_attacker.ipynb) | Illustrates use of running calculations |
-| [Regression Attacker](https://github.com/crunchdao/quickstarters/blob/master/competitions/mid-one/regression_attacker/regression_attacker.ipynb) | Illustrates running regression pattern |
+| [Mean reversion attacker](https://github.com/crunchdao/quickstarters/blob/master/competitions/mid-one/quickstarters/mean_reversion_attacker/mean_reversion_attacker.ipynb) | Illustrates use of the `Attacker` class|
+| [Momentum attacker](https://github.com/crunchdao/quickstarters/blob/master/competitions/mid-one/quickstarters/momentum_attacker/momentum_attacker.ipynb) | Illustrates use of running calculations |
+| [Regression Attacker](https://github.com/crunchdao/quickstarters/blob/master/competitions/mid-one/quickstarters/regression_attacker/regression_attacker.ipynb) | Illustrates running regression pattern |
 
 
 ### About
